@@ -85,22 +85,21 @@ section {
 
 #set-border {
     border: 3px solid tomato;
-    /* background-color: lightsalmon; */
     background-color: rgb(248, 228, 221);
 }
 
 .set-allign {
     text-align: center;
-
-}
-
-small {
-    margin-left: 45%;
-    font-weight: lighter;
 }
 
 .gap-bottom {
-    margin-bottom: 30px;
+    /* margin-bottom: 30px;
+    margin-top: 30px; */
+    text-align: center;
+    /* padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px; */
 }
 
 hr {
@@ -178,6 +177,7 @@ hr {
     padding-top: 10px;
     padding-bottom: 10px;
     border-radius: 10px;
+    margin: 0px;
 }
 
 #email {
@@ -186,7 +186,9 @@ hr {
     padding-top: 10px;
     padding-bottom: 10px;
     border-radius: 10px;
-    margin-left: -4px;
+    /* margin-left: -4px; */
+  
+    background-color: rgb(243, 229, 229);
 
 }
 
