@@ -32,14 +32,14 @@ body {
     text-decoration: none;
     color: white;
     background-color: tomato;
-    padding-left: 60px;
-    padding-right: 60px;
+    padding-left: 10px;
+    padding-right: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
     border-radius: 10px;
-    margin: 40%;
+    margin: 550px;
     font-size: 20px;
-
+   /* text-align: center; */
 
 }
 
@@ -92,20 +92,18 @@ section {
     text-align: center;
 }
 
-.gap-bottom {
-    /* margin-bottom: 30px;
-    margin-top: 30px; */
-    text-align: center;
-    /* padding-left: 30px;
-    padding-right: 30px;
-    padding-top: 10px;
-    padding-bottom: 10px; */
-}
-
 hr {
     margin-bottom: 30px;
     width: 60%;
-    border-top-width: 0px;
+   
+    border-width: 1px;
+
+}
+#donation-plan{
+    display: flex;
+    padding-right: 100px;
+    padding-left: 100px;
+
 
 }
 
