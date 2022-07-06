@@ -169,7 +169,7 @@ hr {
     background-color: antiquewhite;
 }
 
-#button-color {
+.button-color {
     background-color: tomato;
     text-decoration: none;
     color: white;
@@ -212,4 +212,13 @@ footer {
     font-size: 10px;
     padding-left: 1opx;
 
+}
+#waiting{
+    margin-right: 5%;
+    margin-left: 5%;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+   
 }
