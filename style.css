@@ -7,6 +7,7 @@
     padding-top: 200px;
     padding-bottom: 200px;
 
+
 }
 
 
@@ -39,7 +40,8 @@ body {
     border-radius: 10px;
     margin: 500px;
     font-size: 20px;
-   text-align: center;
+    /* text-align: center; */
+
 
 }
 
@@ -64,16 +66,13 @@ section {
 .flexible {
     display: flex;
     padding-right: 100px;
-    padding-left: 250px;
+    padding-left: 100px;
 
-
-
+    justify-content: center;
 }
 
 .shadow {
     box-shadow: 5px 5px 10px gray;
-    /* width: 50%; */
-
     margin-right: 10px;
     margin-left: 10px;
     padding-right: 20px;
@@ -95,15 +94,8 @@ section {
 hr {
     margin-bottom: 30px;
     width: 60%;
-   
+
     border-width: 1px;
-
-}
-#donation-plan{
-    display: flex;
-    padding-right: 100px;
-    padding-left: 100px;
-
 
 }
 
@@ -174,7 +166,7 @@ hr {
     padding-right: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
-    border-radius: 10px;
+    /* border-radius: 10px; */
     margin: 0px;
 }
 
@@ -183,9 +175,9 @@ hr {
     padding-right: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
-    border-radius: 10px;
+    /* border-radius: 10px; */
     /* margin-left: -4px; */
-  
+
     background-color: rgb(243, 229, 229);
 
 }
@@ -213,12 +205,13 @@ footer {
     padding-left: 1opx;
 
 }
-#waiting{
+
+#waiting {
     margin-right: 5%;
     margin-left: 5%;
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 50px;
     padding-bottom: 50px;
-   
+
 }
