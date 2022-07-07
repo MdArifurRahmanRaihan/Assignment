@@ -166,7 +166,7 @@ hr {
     padding-right: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
-    /* border-radius: 10px; */
+    border-radius: 5px;
     margin: 0px;
 }
 
@@ -175,10 +175,9 @@ hr {
     padding-right: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
-    /* border-radius: 10px; */
-    /* margin-left: -4px; */
-
+    border-radius: 5px;
     background-color: rgb(243, 229, 229);
+    margin-top: -10px;
 
 }
 
